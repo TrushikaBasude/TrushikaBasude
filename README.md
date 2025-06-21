@@ -19,7 +19,7 @@
 
 ## 📝 Hashnode Blogs
 I write about Java, React, and backend concepts:  
-🔗 [https://hashnode.com/@TrushikaBasude](https://hashnode.com/@TrushikaBasude)
+🔗 [https://hashnode.com/@TrushikaBasude](https://hashnode.com/@Trushika)
 
 ---
 
